@@ -1,0 +1,67 @@
+.main-header {
+  padding: 5px;
+  background-color: darkred;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  margin-left: 2rem;
+}
+.cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 15rem;
+  height: 3rem;
+  background-color: rgb(87, 1, 1);
+  border-radius: 10px;
+  margin-right: 2rem;
+}
+
+.cart-quantity {
+  background-color: darkred;
+  border-radius: 10px;
+  padding: 5px;
+  width: 3rem;
+  margin-right: 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.cart h3 {
+  margin-left: 2rem;
+}
+
+.meals-img{
+    background-image: url('../../assets/meals.jpg');
+    height: 18rem;
+    background-size: cover;
+}
+
+.ad-banner-flex {
+  display: flex;
+  justify-content: center;
+}
+.ad-banner {
+  display: flex;
+  background-color: #3a3a3a;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  padding: 0.8rem;
+  width: 50%;
+  margin-bottom: 3rem;
+  box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.ad-banner h1 {
+  font-size: 2rem;
+}
+
+
+
+
