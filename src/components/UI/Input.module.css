@@ -1,0 +1,17 @@
+label {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+input{
+    border:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+    width: 2rem;
+    border-radius: 0.5rem;
+    height: 1.6rem;
+    margin-left: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    outline: none;
+
+}
+

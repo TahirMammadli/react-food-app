@@ -1,0 +1,21 @@
+.backdrop{
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 20;
+}
+.modal-overlay{
+    position: fixed;
+    top: 20vh;
+    left: 25%;
+    width: 40%;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 30;
+    margin: 0 auto;
+}
